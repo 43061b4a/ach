@@ -10,7 +10,7 @@ require (
 	github.com/mattn/go-colorable v0.1.4 // indirect
 	github.com/mattn/go-isatty v0.0.12
 	github.com/moov-io/base v0.11.0
-	github.com/moov-io/customers v0.4.0-rc4.0.20200519011716-05c4c319c49b
+	github.com/moov-io/customers v0.4.0-rc5
 	github.com/prometheus/client_golang v1.6.0
 	golang.org/x/crypto v0.0.0-20200510223506-06a226fb4e37 // indirect
 )
